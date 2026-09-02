@@ -8,7 +8,7 @@ My way of thinking leans towards data oriented programming generally,
 though I have a habit of writing code in OOP style.
 
 I have a website talking about what I think about coding,
-and workflows I've picked up over time.
+and workflows I've picked up over time. (Currently down while I move to a cheaper server)
 <!---
 Zachary-Kirby/Zachary-Kirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
